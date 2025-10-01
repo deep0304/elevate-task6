@@ -35,13 +35,15 @@ Deploy a simple static HTML website using **GitHub Pages**.
 
 ## Deliverables
 
-- **GitHub Repository:** [Repo Link](https://github.com/<username>/<repo-name>)
-- **Live Website:** [Live Site](https://<username>.github.io/<repo-name>/)
+- **GitHub Repository:** [Repo Link](https://github.com/deep0304/elevate-task6)
+- **Live Website:** [Live Site](https://deep0304.github.io/elevate-task6/)
 
 ---
 
-## Screenshots (Optional)
-_Add screenshots of your repo, settings, and live page here._
+## Screenshots 
+
+<img width="797" height="621" alt="image" src="https://github.com/user-attachments/assets/2f66ba67-bd73-4f85-abcb-d2f703c999e6" />
+
 
 ---
 
